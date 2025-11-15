@@ -59,3 +59,7 @@ Essas características tornam o Arduino UNO ideal para projetos acadêmicos e pr
 
 ---
 
+## Resultado:
+
+https://github.com/user-attachments/assets/7ea336f7-de9c-4887-8882-eded624d5cf8
+
